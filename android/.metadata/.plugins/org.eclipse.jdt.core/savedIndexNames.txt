@@ -1,3 +1,0 @@
-INDEX VERSION 1.126+/Users/gokulswamy/Java/ulysses/android/.metadata/.plugins/org.eclipse.jdt.core
-154986116.index
-3442715361.index
